@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-madhur
-gckgvgcv
-=======
-thmadhuruefhjawlv bn v
-nj setf4cf
->>>>>>> bc19cd050892dc97f5a435f23df09afb6f75bdb2
+hello world
+
